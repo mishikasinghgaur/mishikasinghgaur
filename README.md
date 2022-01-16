@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><video src="Header.mp4" type="video/mp4"></a>
+  <a href="#"><img src="Header.gif" alt="Mishika's Header"></a>
   <br> </br>
 </div>
   
