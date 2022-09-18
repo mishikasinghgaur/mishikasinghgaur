@@ -12,6 +12,6 @@
 <p align='center'>
 <a href="https://www.instagram.com/el_arte_es_divertido/"><img height="45" src="https://github.com/msgaur1997/msgaur1997/blob/main/Images/Instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://readymag.com/u1897683455/3362154/"><img height="45" src="https://github.com/msgaur1997/msgaur1997/blob/main/Images/Readymag.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mishika-s-74a5b8168/"><img height="45" src="https://github.com/msgaur1997/msgaur1997/blob/main/Images/LinkedIn.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/mishikasinghgaur/"><img height="45" src="https://github.com/msgaur1997/msgaur1997/blob/main/Images/LinkedIn.png?raw=true"></a>
 </p>
 
